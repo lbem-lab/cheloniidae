@@ -1,0 +1,63 @@
+﻿UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Instituto de Ciências Biológicas
+Programa de Pós-Graduação em Genética
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qualificação de Doutorado
+
+
+Evolutionary dynamics and population genomics of hybridisation
+
+
+
+
+
+
+
+Maycon Douglas de Oliveira
+Orientador: Fabrício Rodrigues dos Santos
+Co-orientador: Ricardo José do Nascimento Pereira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belo Horizonte
+Abril de 2025
+Abstract
+O intercruzamento de populações ou espécies aparentadas pode resultar na formação de uma prole híbrida. Com o acúmulo de novos dados e o estudo mais aprofundado de populações naturais, foi possível averiguar que a hibridação ocorre na natureza com uma frequência maior do que antes se acreditava, o que trouxe à tona discussões sobre o papel evolutivo deste fenômeno. Ainda existem poucos estudos focados nas dinâmicas evolutivas ao nível genômico de populações de híbridos, cenário que vem mudando gradualmente graças à maior disponibilidade de genomas de referência de alta qualidade de espécies não-modelo e ao barateamento dos custos de sequenciamento. A expansão das possibilidades de estudos genômicos produziu, ao longo das últimas décadas, um alto volume de dados que, em geral, não foram integrados e completamente explorados. Adicionalmente, novos programas e análises de bioinformática permitem um melhor aproveitamento de dados de baixa cobertura, ao incluírem no processo de detecção de variantes a incerteza inerente aos dados brutos. Tendo isto em mente, este trabalho visa compreender a influência de fatores evolutivos como seleção e deriva (e suas consequências) em genomas de híbridos. Tartarugas marinhas são um modelo ideal para o estudo de genomas híbridos, visto que a hibridação é um fenômeno já conhecido para diversas destas espécies, havendo também uma grande disponibilidade de dados públicos de ressequenciamento genômico para populações da costa do Atlântico brasileira. Além disso, obtivemos acesso a genomas de referência não publicados de alta qualidade para quatro espécies de tartarugas marinhas, o que nos permite uma análise dos dados populacionais com maior confiabilidade na detecção de variantes. A primeira parte deste trabalho envolve a integração destes dados pré-existentes em análises de genômica populacional que visam entender a extensão da hibridação entre as diferentes espécies de tartaruga na costa brasileira. Através destas análises, observamos que o maior eixo de hibridação ocorre entre as espécies Caretta caretta e Eretmochelys imbricata, com a formação de híbridos de primeira geração (F1). Fomos também capazes de identificar, com alta confiabilidade, a presença de híbridos de segunda geração, indivíduos frutos de retrocruzamentos e indivíduos com evidências de introgressão. Hibridação também ocorre com e entre as outras espécies, ainda que em menor frequência. Notoriamente, observamos a existência de híbridos envolvendo Chelonia mydas, espécie que divergiu das demais há aproximadamente 40 milhões de anos, período visto como pouco usual para a formação de híbridos viáveis. Por fim, observamos também a presença de híbridos entre três espécies, o que sugere que híbridos de tartarugas marinhas podem ser férteis. Em segundo momento, será realizado o ressequenciamento genômico de novas amostras de tartarugas marinhas, visando um aumento da cobertura de sequenciamento, o que permitirá a análise de evidências de seleção, blocos de homozigose, incompatibilidades híbridas, barreiras de introgressão e loci híbridos potencialmente adaptativos. Com isto, esperamos contribuir para a compreensão sobre como o processo evolutivo afeta genomas de híbridos. Estas análises serão então integradas e padronizadas em uma pipeline que poderá ser transferida para outros modelos e livremente reutilizada, facilitando e acelerando análises evolutivas futuras utilizando genomas de híbridos de diversas espécies.
+Keywords: hibridação, genômica, pipeline, evolução, tartarugas marinhas.
+Resumo
+O intercruzamento de populações ou espécies aparentadas pode resultar na formação de uma prole híbrida. Com o acúmulo de novos dados e o estudo mais aprofundado de populações naturais, foi possível averiguar que a hibridação ocorre na natureza com uma frequência maior do que antes se acreditava, o que trouxe à tona discussões sobre o papel evolutivo deste fenômeno. Ainda existem poucos estudos focados nas dinâmicas evolutivas ao nível genômico de populações de híbridos, cenário que vem mudando gradualmente graças à maior disponibilidade de genomas de referência de alta qualidade de espécies não-modelo e ao barateamento dos custos de sequenciamento. A expansão das possibilidades de estudos genômicos produziu, ao longo das últimas décadas, um alto volume de dados que, em geral, não foram integrados e completamente explorados. Adicionalmente, novos programas e análises de bioinformática permitem um melhor aproveitamento de dados de baixa cobertura, ao incluírem no processo de detecção de variantes a incerteza inerente aos dados brutos. Tendo isto em mente, este trabalho visa compreender a influência de fatores evolutivos como seleção e deriva (e suas consequências) em genomas de híbridos. Tartarugas marinhas são um modelo ideal para o estudo de genomas híbridos, visto que a hibridação é um fenômeno já conhecido para diversas destas espécies, havendo também uma grande disponibilidade de dados públicos de ressequenciamento genômico para populações da costa do Atlântico brasileira. Além disso, obtivemos acesso a genomas de referência não publicados de alta qualidade para quatro espécies de tartarugas marinhas, o que nos permite uma análise dos dados populacionais com maior confiabilidade na detecção de variantes. A primeira parte deste trabalho envolve a integração destes dados pré-existentes em análises de genômica populacional que visam entender a extensão da hibridação entre as diferentes espécies de tartaruga na costa brasileira. Através destas análises, observamos que o maior eixo de hibridação ocorre entre as espécies Caretta caretta e Eretmochelys imbricata, com a formação de híbridos de primeira geração (F1). Fomos também capazes de identificar, com alta confiabilidade, a presença de híbridos de segunda geração, indivíduos frutos de retrocruzamentos e indivíduos com evidências de introgressão. Hibridação também ocorre com e entre as outras espécies, ainda que em menor frequência. Notoriamente, observamos a existência de híbridos envolvendo Chelonia mydas, espécie que divergiu das demais há aproximadamente 40 milhões de anos, período visto como pouco usual para a formação de híbridos viáveis. Por fim, observamos também a presença de híbridos entre três espécies, o que sugere que híbridos de tartarugas marinhas podem ser férteis. Em segundo momento, será realizado o ressequenciamento genômico de novas amostras de tartarugas marinhas, visando um aumento da cobertura de sequenciamento, o que permitirá a análise de evidências de seleção, blocos de homozigose, incompatibilidades híbridas, barreiras de introgressão e loci híbridos potencialmente adaptativos. Com isto, esperamos contribuir para a compreensão sobre como o processo evolutivo afeta genomas de híbridos. Estas análises serão então integradas e padronizadas em uma pipeline que poderá ser transferida para outros modelos e livremente reutilizada, facilitando e acelerando análises evolutivas futuras utilizando genomas de híbridos de diversas espécies.
+Palavras-chave: hibridação, genômica, pipeline, evolução, tartarugas marinhas.
+Table of Contents
+4 Materials and methods	6
+
+4 Materials and methods
+All of the analyses were performed within three computing environments: the Curta High Performance Computing (HPC) system, from the Freie Universität Berlin (1); our lab server, Darwin, a Dell Technologies model PowerEdge R940xa station with four 20-core, 40-thread Intel Xeon Gold 6230 processors and 64 gigabytes (GB) of random access memory (RAM); and Sagarana, the HPC system of the Institute of Biological Sciences (ICB) of the Federal University of Minas Gerais (UFMG).
+4.1 Samples
+All samples were sequenced, analysed and published in previous works (2, 3). Direct access to the quality-trimmed FASTQ files for all samples, as well as the assembled reference genomes (unpublished) was provided by Dr. Larissa Arantes and Dr. Camila Mazzoni from the Berlin Centre for Genomics in Biodiversity Research (BeGenDiv), through personal communication. In brief, the sample pool is comprised of individuals identified as being from one of four species of sea turtles: the loggerhead sea turtle Caretta caretta, the hawksbill Eretmochelys imbricata, the green turtle Chelonia mydas and the olive ridley sea turtle Lepidochelys olivacea; and their suspected hybrids. This identification, when present, was done morphologically through observation of the carapace features of the sampled individuals, but was not present for all samples, e. g. the stillborn hatchlings from the Abrolhos Archipelago (2). In total, 116 samples were sequenced by Arantes (2) using the 3RAD methodology (3rad method citation) and 158 samples were sequenced by Arantes and Vilaça (3) using the double-digest restriction-site associated DNA (ddRAD) sequencing methodology (ddRAD method citation). This amounts to a total of 274 sequencing samples, of which 
